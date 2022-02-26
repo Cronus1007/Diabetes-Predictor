@@ -1,5 +1,5 @@
 # Future Ready Talent Prpject 
-#Diabities Predecting App
+# Diabities Predecting App
 ---
 
 ##### Why is this required?
